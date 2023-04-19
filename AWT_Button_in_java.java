@@ -7,7 +7,7 @@ public class AWT_Button_in_java {
         btn.setBounds(80, 80, 100, 50);
         f.add(btn);
         f.setSize(300, 250);
-        f.setTitle("Sejal_Shinde_2213310");
+        f.setTitle("Simple program");
         f.setLayout(null);
         f.setVisible(true);
     }
