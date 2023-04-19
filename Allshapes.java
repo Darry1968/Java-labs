@@ -49,14 +49,10 @@ class Traingle extends Allshape {
     }
 }
 
-abstract class shape {
-    int a;
-    int b;
+abstract class Allshape {
 
     abstract void print_Area();
-}
 
-abstract class Allshape {
     public static void main(String[] args) {
         Circle c1 = new Circle();
         Rectangle r1 = new Rectangle();
